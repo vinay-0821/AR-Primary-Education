@@ -1,0 +1,28 @@
+# Unity generated folders
+Sentis/[Ll]ibrary/
+Sentis/[Tt]emp/
+Sentis/[Bb]uild/
+Sentis/[Bb]uilds/
+Sentis/[Ll]ogs/
+Sentis/Obj/
+Sentis/UserSettings/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Visual Studio generated files
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large AI model files
+Sentis/Assets/Models/*.onnx
+Sentis/Packages/com.github.homuler.mediapipe/PackageResources/MediaPipe/*.bytes
